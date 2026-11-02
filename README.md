@@ -2,7 +2,7 @@
 
 Trabajo práctico de la materia **Análisis de datos en la nube**.
 
-**Alumno:** Nombre Apellido
+**Alumno:** Godoy Gianfranco y Maximiliano Dias
 
 ## Descripción
 Se realizó un proceso ETL completo en Databricks Free Edition, usando Python, Spark SQL y Delta Lake, sobre un dataset de clubes del fútbol argentino.
